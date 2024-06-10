@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Using age, resting blood pressure and maximum heart rate to classify heart disease patients from Switzerland
+
