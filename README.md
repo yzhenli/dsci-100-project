@@ -1,2 +1,1 @@
-# Using age, resting blood pressure and maximum heart rate to classify heart disease patients from Switzerland
-
+# Using serum cholesterol and resting blood pressure to classify heart disease patients from Cleveland
